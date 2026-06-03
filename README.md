@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jonnalagadda Shikvitha
 
-🎓 Computer Science Engineering Student @ SRM Institute of Science and Technology
+🎓 B.Tech Computer Science Engineering Student @ SRM Institute of Science and Technology
 
 💻 Software Developer | Python Developer | AI & Data Enthusiast
 
