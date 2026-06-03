@@ -26,13 +26,17 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C, C++
+### 💻 Languages
+Python • C • C++
 
-**Database:** MongoDB
+### 🗄️ Database
+MongoDB
 
-**Tools:** Git, GitHub, VS Code
+### ⚙️ Tools
+Git • GitHub • VS Code
 
-**Areas of Interest:** AI, Data Analytics, Software Development, Computer Vision
+### 🚀 Interests
+AI • Data Analytics • Software Development • Computer Vision
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
