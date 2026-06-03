@@ -68,4 +68,11 @@ Automates library operations and resource management.
 
 ---
 
+## 🌱 Currently Working On
+
+- Improving Data Structures & Algorithms
+- Building Python-Based Applications
+- Exploring Artificial Intelligence & Data Analytics
+- Strengthening GitHub Portfolio Projects
+
 ⭐ Building technology that creates real-world impact.
