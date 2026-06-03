@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Github Banner.png" width="100%">
+</p>
+
 # 👋 Hi, I'm Jonnalagadda Shikvitha
 
 🎓 B.Tech Computer Science Engineering Student @ SRM Institute of Science and Technology
