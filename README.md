@@ -14,7 +14,7 @@
 
 ## 🌟 About Me
 
-* 🎯 CGPA: **9.48/10**
+* 🎯 CGPA: **9.56/10**
 * 🤖 Interested in AI, Data Analytics, and Software Development
 * 🏆 Microsoft Azure AI Internship Participant
 * 📜 Oracle Certified Foundations Associate
